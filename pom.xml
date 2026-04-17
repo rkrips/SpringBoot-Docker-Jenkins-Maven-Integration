@@ -13,7 +13,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>spring-boot-docker-maven-integration</finalName>
+        <finalName>docker_maven_integration</finalName>
     </build>
 
 </project>
